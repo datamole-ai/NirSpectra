@@ -7,7 +7,7 @@ Near infra-red spectroscopy is a technique used in a number of industries, inclu
 More information: 
 [](https://en.wikipedia.org/wiki/Near-infrared_spectroscopy)
 
-The data for this assignment consists of the following columns:
+The data for this assignment consists of the following columns (in this particular order):
 
 - Sample number.
 - The quantity to predict.
